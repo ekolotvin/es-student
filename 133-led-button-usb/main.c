@@ -76,6 +76,6 @@ int main()
 
         led = handle_command(command, led);
         
-    }
+    } 
  
 }
